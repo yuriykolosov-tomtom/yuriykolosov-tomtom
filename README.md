@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Yuriy (@yuriykolosov-tomtom)
-- 👀 I’m interested in automation and UI.
-- 🌱 I’m currently learning React, Node.js, python.
-- 💞️ I’m looking to collaborate on full stack projects.
-- 📫 telegram: @panasonic_mafia
+
